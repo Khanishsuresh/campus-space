@@ -24,6 +24,9 @@
     --input: 240 5.9% 90%;
     --ring: 142.1 76.2% 36.3%;
     --radius: 0.5rem;
+    font-family: work sans;
+    font-weight: 550;
+    font-size: large;
   }
 
   .dark {
@@ -48,8 +51,6 @@
     --ring: 142.4 71.8% 29.2%;
   }
 }
-
-
 
 @layer base {
   * {
